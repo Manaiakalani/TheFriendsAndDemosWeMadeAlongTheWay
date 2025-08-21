@@ -29,7 +29,7 @@ This repo is basically the scrapbook of side quests, late-night coding sprints, 
 ---
 
 ## 📸 Mood Board
-![this-is-fine]([https://media.giphy.com/media/3o6ZsYm5P38N2WZ8Ws/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmxiemwzNG9reXRiazI3Yzh1MG51emtkc2NpMTJnYmxpbzZtMHl2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Jrl4FlTaymFFbNiwU5/giphy.gif))  
+![this-is-fine](https://i.giphy.com/Jrl4FlTaymFFbNiwU5.webp)  
 *Accurate depiction of dev life.*
 
 ---
