@@ -1,4 +1,4 @@
-# 🌊🐠 TheFriendsAndDemosWeMadeAlongTheWay
+# 🌊🐠 The Friends And Demos We Made Along TheWay
 *"Fish are friends. Not food."* – Some wise fish, probably 🐟✨
 
 Welcome, traveler of code!  
