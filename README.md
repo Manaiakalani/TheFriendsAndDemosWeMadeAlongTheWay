@@ -1,5 +1,5 @@
 # 🌊🐠 The Friends And Demos We Made Along TheWay
-*"Fish are friends. Not food."* – Some wise fish, probably 🐟✨
+*"Fish are friends. Not food."* - Some wise fish, probably 🐟✨
 
 Welcome, traveler of code!  
 This repo is basically the scrapbook of side quests, late-night coding sprints, and projects that somehow survived the caffeine storms. Think of it as a mixtape of demos, experiments, and “wow, that actually worked” moments.
